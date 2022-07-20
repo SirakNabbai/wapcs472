@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(88, 151, 151);
+}
+
+div{
+    color:rgb(32, 32, 66);
+}
+strong{
+    color: red;
+}
+#pic{
+    display: inline-flex;
+}
